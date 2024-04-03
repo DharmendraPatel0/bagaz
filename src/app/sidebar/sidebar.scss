@@ -1,15 +1,15 @@
-.container{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    align-items: center;
-    right: 0;
-    background-color: yellow;
-    width :80px;
-    height: 100vh;
-    position: fixed;
-    z-index: 1;
-    > button{
-        transform: rotate(-270deg);
-    }
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  right: 0;
+  background-color: yellow;
+  width: 80px;
+  height: 100vh;
+  position: fixed;
+  z-index: 1;
+  > button {
+    transform: rotate(-270deg);
+  }
 }
